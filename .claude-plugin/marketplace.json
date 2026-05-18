@@ -1,0 +1,114 @@
+{
+  "name": "vercel-ai",
+  "owner": {
+    "name": "Vercel Ai"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/vercel-ai-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "vercel-ai-amazon-bedrock",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-amazon-bedrock.git"
+      }
+    },
+    {
+      "name": "vercel-ai-anthropic",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-anthropic.git"
+      }
+    },
+    {
+      "name": "vercel-ai-azure",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-azure.git"
+      }
+    },
+    {
+      "name": "vercel-ai-cerebras",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-cerebras.git"
+      }
+    },
+    {
+      "name": "vercel-ai-cohere",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-cohere.git"
+      }
+    },
+    {
+      "name": "vercel-ai-deepinfra",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-deepinfra.git"
+      }
+    },
+    {
+      "name": "vercel-ai-google",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-google.git"
+      }
+    },
+    {
+      "name": "vercel-ai-google-vertex",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-google-vertex.git"
+      }
+    },
+    {
+      "name": "vercel-ai-groq",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-groq.git"
+      }
+    },
+    {
+      "name": "vercel-ai-mistral",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-mistral.git"
+      }
+    },
+    {
+      "name": "vercel-ai-openai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-openai.git"
+      }
+    },
+    {
+      "name": "vercel-ai-openai-compatible",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-openai-compatible.git"
+      }
+    },
+    {
+      "name": "vercel-ai-replicate",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-replicate.git"
+      }
+    },
+    {
+      "name": "vercel-ai-sdk",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-sdk.git"
+      }
+    },
+    {
+      "name": "vercel-ai-togetherai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/vercel-ai-togetherai.git"
+      }
+    }
+  ]
+}
